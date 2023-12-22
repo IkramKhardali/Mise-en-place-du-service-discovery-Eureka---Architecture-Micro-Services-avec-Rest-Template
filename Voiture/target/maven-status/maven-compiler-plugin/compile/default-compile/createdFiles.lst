@@ -1,0 +1,7 @@
+ma\khardali\voiture\Model\Client.class
+ma\khardali\voiture\Service\ClientService.class
+ma\khardali\voiture\Controller\VoitureController.class
+ma\khardali\voiture\Service\VoitureService.class
+ma\khardali\voiture\Model\Voiture.class
+ma\khardali\voiture\VoitureApplication.class
+ma\khardali\voiture\Repository\VoitureRepository.class
